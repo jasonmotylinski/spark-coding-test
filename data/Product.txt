@@ -1,0 +1,22 @@
+1111|Phone |P105|Product Desc 18|$599
+1112|Laptop |P105|Product Desc 20|$999
+1113|Desktop |P106|Product Desc 22|$1449
+1114|Harddisk |P102|Product Desc 3|$99
+1115|GamingConsole |P103|Product Desc 12|$249
+1116|Tablet |P105|Product Desc 19|$699
+1117|Watch |P104|Product Desc 16|$399
+1118|Camera |P104|Product Desc 17|$499
+1119|Camcorder |P103|Product Desc 13|$299
+1120|Printer |P104|Product Desc 14|$349
+1121|Monitor |P103|Product Desc 7|$149
+1122|Kids's tablet |P102|Product Desc 4|$99
+1123|VR Play Station |P103|Product Desc 9|$199
+1124|Drone |P102|Product Desc 2|$89
+1125|Keyboard |P102|Product Desc 5|$99
+1126|Magic Mouse |P102|Product Desc 6|$99
+1127|Memory card |P101|Product Desc 1|$19
+1128|Speaker |P103|Product Desc 8|$149
+1129|Home Automation Kit |P105|Product Desc 21|$999
+1130|Baby Monitor |P104|Product Desc 15|$349
+1131|Doorbell Carema |P103|Product Desc 11|$219
+1132|Car Connector |P103|Product Desc 10|$217
